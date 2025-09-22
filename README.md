@@ -10,11 +10,14 @@
    - Probabilitic Machine Learning
    - Machine Learning and Statistical Learning Theory
  
-
-
 ---
      
-- logging my learnings and experiments on Machine Learning (theory and practice) here - mostly centered around Vapnik's work , Kevin Murphy book - and not too much of deep learning here , may be a separate repo  
+- logging my learnings and experiments on Machine Learning (theory and practice) here - mostly centered around Vapnik's work , Kevin Murphy book - and not too much of deep learning here , may be a separate repo
+
+### Key Courses 
+- [David Blei's PMML course that I am taking](https://www.cs.columbia.edu/~blei/fogm/2025F/readings.html)
+- [Daniel Hsu's ML Courses - that focuses on theory](https://www.cs.columbia.edu/~djhsu/coms4771-f25/)
+- [Daniel Hsu's ML Theory Course](https://www.cs.columbia.edu/~djhsu/coms4773-s24/)
 
 ### Reference Books and Courses 
 - [Stanford CS229 Machine Learning Course](https://cs229.stanford.edu/)
