@@ -1,4 +1,19 @@
 # doingML
+
+- update:
+    - I am planning to log math/theoritical proofs and quick excercises and experiments around ML
+    - also quick explorations on my questions / doubts
+
+---
+
+- current ML Recap :
+   - Probabilitic Machine Learning
+   - Machine Learning and Statistical Learning Theory
+ 
+
+
+---
+     
 - logging my learnings and experiments on Machine Learning (theory and practice) here - mostly centered around Vapnik's work , Kevin Murphy book - and not too much of deep learning here , may be a separate repo  
 
 ### Reference Books and Courses 
