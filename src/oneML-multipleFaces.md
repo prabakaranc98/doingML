@@ -1,0 +1,3 @@
+# One ML : but Probabilistic, Statistical and Computational Faces...
+
+Let's start with few basic elements :  Empirical Risk Minimization Vs MAP Estimation (Probabilistic) and How Stochastic Optimization helps in both.
